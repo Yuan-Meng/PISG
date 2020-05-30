@@ -1,0 +1,130 @@
+﻿participant,condition,age,education,guess_1,buy_1,guess_2,buy_2,guess_3,buy_3,guess_4,buy_4,guess_5,buy_5,guess_6,buy_6,guess_7,buy_7,guess_8,buy_8,guess_9,buy_9,guess_10,buy_10,guess_11,buy_11,guess_12,buy_12,explanation
+1,check,29,"Some college credit, no degree",5,1,5,1,4,1,4,1,2,0,2,0,2,0,3,1,3,1,4,0,2,1,1,0,I just tried to use common sense and make an educated guess off of Alex's selections and his frequency of choosing to buy
+2,check,35,Bachelo's degree,5,1,5,1,4,1,4,1,2,0,0,0,5,0,6,1,5,1,4,1,3,0,1,1,"I thought this was dumb. If you want me to llay a game, let me play it. I just guessed based on the number they picked"
+3,check,39,"High school graduate, diploma, or the equivalent",5,1,6,1,5,1,5,1,2,0,1,0,6,1,5,1,5,1,5,1,2,0,1,0,I mostly followed the pattern that I developed from watching Alex make his choices on when I should keep an egg.
+4,check,45,"Some college credit, no degree",6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I generally went with what Alex did. Sometimes I felt like guessing a little more on the conservative side.
+5,check,30,"High school graduate, diploma, or the equivalent",6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I judged by how many he bought. I thought that he probably went with the odds. If he buys alot then the odds are very high that the chicken gives lots of tickets.
+6,check,33,"High school graduate, diploma, or the equivalent",4,1,6,1,6,1,5,1,1,0,0,0,6,1,0,0,1,0,4,1,3,1,0,0,"Trusted my gut, honestly based on how many Alex had bought."
+7,check,34,"Some college credit, no degree",4,1,4,0,4,1,4,0,3,1,5,1,4,1,2,0,5,0,4,0,1,1,2,1,"Well, I figured that if he had a bad round, odds were higher that i'd end up with a not so bad round."
+8,check,24,"High school graduate, diploma, or the equivalent",5,1,5,1,4,1,5,1,2,0,4,1,5,1,5,1,4,1,4,1,2,0,1,0,"i followed alex's lead, but was conservative with my estimate"
+9,check,38,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,5,1,6,1,5,1,5,1,4,0,1,0,"Since the other player knew the chances, I used their judgment."
+10,check,37,Bachelo's degree,5,1,5,1,4,1,4,1,3,0,1,0,5,1,5,1,4,1,4,1,2,0,1,0,the eggs that were bought minus 1
+11,check,25,Doctorate degree,6,1,6,1,5,1,5,0,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,"By how Alex ""will opening"" the eggs he chose"
+12,check,29,Bachelo's degree,6,0,6,0,5,1,5,1,2,1,1,1,6,0,6,0,5,1,5,1,2,1,1,1,i guessed based on how many he chose to buy becuase he's supposed to know the rates
+13,check,65,"Some college credit, no degree",5,1,6,1,5,0,4,0,2,0,1,0,6,1,6,1,5,0,5,0,3,0,4,0,I decided to buy ones where he collected all the eggs. It was hit or miss otherwise.
+14,check,35,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I based them on how many Alex bought since he supposedly knows the best chickens.
+15,check,42,"Some college credit, no degree",6,1,6,1,5,1,5,1,2,0,5,1,6,1,6,1,5,1,5,1,4,0,1,0,"I followed Alex's lead, if he let one go I assumed that there's only 5 out of 6 that would have it."
+16,check,29,Bachelo's degree,5,0,3,0,3,0,3,1,3,1,3,1,4,0,1,1,2,1,4,0,3,1,1,0,I imagined they all had around the same probability since six random eggs were chosen instead of being selected as a series.
+17,check,48,"Some college credit, no degree",3,1,2,1,2,1,2,1,0,0,1,0,2,1,4,1,3,1,3,1,1,0,1,0,If he bought many of them it gave me the idea there would be a good chance t would have a ticket.
+18,check,31,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I based my guess on how many Alex picked to pay with a token.
+19,check,31,Bachelo's degree,5,1,5,1,4,1,4,1,3,0,1,0,5,1,5,1,4,1,4,1,3,0,1,0,I used my intuition on the matter.
+20,check,27,Maste's degree,5,1,4,1,1,0,5,0,6,0,3,0,6,0,4,0,2,0,5,0,3,0,4,0,good eggs game study 
+21,check,22,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I trusted Alex's experience of playing many many games and getting to know the chickens.
+22,check,32,Associate degree,4,1,6,1,4,1,5,1,2,0,5,1,6,1,6,1,1,0,4,1,2,0,1,0,I trusted Alex‚Äôs judgement for the most part
+23,check,28,Professional degree,2,0,4,1,2,1,4,1,1,1,5,1,2,1,4,1,4,1,3,1,3,1,3,1,I guessed that by Alex Decision
+24,check,37,"Some college credit, no degree",5,1,5,1,5,1,5,1,2,1,1,0,5,1,6,1,4,1,5,1,2,0,1,1,I went off of how many ALex bought.
+25,check,48,"High school graduate, diploma, or the equivalent",4,1,5,1,4,1,4,1,1,0,1,0,5,1,5,1,4,1,4,1,1,0,1,0,"I figured Alex had some knowledge of which chicken was most likely to lay golden eggs, but he's not perfect and there's a chance that some of the ones he bought would not have tickets, so I took the number of eggs he bought and assumed at least one would be a dud. "
+26,check,46,Bachelo's degree,5,1,5,1,4,1,5,1,2,0,1,0,5,1,5,1,5,1,5,1,2,0,1,0,I guessed based on how many eggs Alex chose to buy with the token. Because Alex is suppose to know so much about the game I went on his choices. 
+27,check,43,Associate degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I pretty much went by the number of golden eggs that the chicken originally laid and assumed that it was a good estimate. 
+28,check,28,Maste's degree,6,1,5,1,5,1,5,1,5,1,5,1,4,1,4,1,3,1,4,1,2,1,5,1,guess the eggs and the tokens and make the answers.
+29,check,38,Bachelo's degree,4,1,3,1,1,1,2,1,0,0,0,0,4,1,3,1,1,0,3,1,0,0,0,0,By watching Alex play and nature gut feelings.
+30,check,29,"Some college credit, no degree",5,1,5,1,4,1,4,1,1,0,1,0,5,1,5,1,4,1,4,1,0,0,0,0,The player might not be that right and I gave one egg that may not have a ticket just in case for each of the robot chickens
+31,check,63,Bachelo's degree,2,1,5,1,1,1,1,1,2,1,1,1,4,1,3,1,3,1,2,1,2,1,1,1,"mI attempted to use Alex's logic.  Using the amount of eggs he selected, I tried to ask myself if the chicken would most likely have another egg with a ticket,, or not.  "
+32,check,31,"Some college credit, no degree",6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I just followed Alex's behavior. If he drew a certain amount then I figured that must be the number of eggs that would have a ticket
+33,check,64,Bachelo's degree,5,1,3,0,3,1,3,1,2,1,6,0,3,1,4,1,3,0,4,1,2,1,4,1,Good
+34,check,60,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,"If Alex bought a lot, I would buy a lot. If Alex didn't buy a lot, I didn't buy it."
+35,check,42,Maste's degree,5,1,5,1,4,1,4,1,2,1,0,0,4,0,5,1,4,1,4,1,1,0,1,0,no idea
+36,check,26,Bachelo's degree,6,1,6,1,5,1,5,1,4,0,1,0,6,1,6,1,5,1,5,1,2,0,2,0,how many were chosen by Alex
+37,check,58,Bachelo's degree,4,1,4,1,4,1,3,1,1,0,1,0,4,1,5,1,3,1,3,0,2,0,1,0,I just used Alex's opinions and went low or high based upon that
+38,check,26,Bachelo's degree,2,1,4,1,1,1,1,1,3,1,3,1,3,1,2,1,2,0,3,0,2,0,2,1,I just finished those rounds by some predictions based on the demo videos.
+39,check,28,Bachelo's degree,6,1,5,1,4,1,4,1,2,0,1,0,5,1,5,1,4,1,4,1,2,0,1,0,"I guessed based on the ratio that was more likely with the chickens that Alex spent more tokens on. If he spent more tokens on a chicken, I typically expected there to be a high amount of eggs that have a golden ticket inside."
+40,check,26,"Some college credit, no degree",5,1,5,1,3,1,5,1,2,0,1,0,5,1,5,1,4,1,4,1,2,0,1,0,Based on what Alex was picking
+41,check,54,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I guessed that it would be the same number Alex would want to buy
+42,check,24,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I trusted Alex's choices.
+43,check,26,"High school graduate, diploma, or the equivalent",4,1,4,1,2,1,2,1,1,0,1,0,3,1,5,1,2,1,2,1,1,0,1,0,I figure about half of the eggs he bought might have tickets
+44,check,23,Bachelo's degree,6,1,6,1,5,1,5,1,2,1,1,0,6,1,6,1,5,1,5,1,2,1,1,1,"Just based on what was shown in the video really, as well as at what time each was won or skipped."
+45,check,40,"Some college credit, no degree",6,1,6,1,4,1,5,1,1,0,1,0,5,1,5,1,6,1,4,1,2,0,1,0,I just estimated based on the number of eggs picked by the player who knew the game. 
+46,check,32,Maste's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,0,0,Based on how many eggs Alex chose
+47,check,44,"Some college credit, no degree",5,1,5,1,3,1,3,1,1,0,4,0,4,1,4,1,4,1,3,1,1,0,3,1,I guessed by one less than he kept.
+48,check,56,Maste's degree,6,1,6,0,4,1,6,1,1,0,2,0,6,0,6,1,4,1,5,1,2,0,5,1,I went with Alex's example and just guessed on some.
+49,check,65,"Some college credit, no degree",6,1,4,1,5,0,3,1,2,1,1,0,6,1,5,0,5,0,3,1,2,0,1,0,At first I pretty much chose what Alex chose.  Then later I started doing random guesses.
+50,check,30,"High school graduate, diploma, or the equivalent",6,1,3,0,3,0,5,1,1,0,1,0,6,1,6,1,5,0,5,1,2,1,2,0,I used the video and made an educated guess.
+51,check,35,Bachelo's degree,6,0,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I watched Alex and did what he did. 
+52,check,45,"Some college credit, no degree",6,1,6,1,5,0,5,1,2,1,1,0,6,1,6,1,5,1,5,1,2,0,1,0,based on how many were purchased with tokens in the videos
+53,check,30,"High school graduate, diploma, or the equivalent",5,1,5,1,5,1,5,1,2,0,1,0,5,1,5,1,4,1,4,1,2,0,2,0,follow Alex's lead.
+54,check,38,Maste's degree,6,1,6,1,6,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,"Since Alex knows the machines well, I guessed the same number that Alex bought from each chicken."
+55,check,46,Bachelo's degree,6,1,6,1,5,1,5,1,4,0,1,0,6,1,6,1,5,1,5,1,2,1,1,0,I watched how many had eggs on a row and if they had a lot it was a good row   Of the eggs were not all having tickets it was too much of a risk 
+56,check,57,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,2,0,5,1,6,1,5,1,5,1,3,0,2,0,If Alex brought any eggs at all it must have at least 1 or 2 or he would have not bought it.  If he takes all the eggs then it must have at least 5 and probably 6.   If they selected more than half but not all then likely the majority have tickets but not all of them.
+57,check,51,Bachelo's degree,3,0,4,0,2,0,3,0,1,1,1,1,4,0,4,0,3,0,3,0,1,1,1,1,I trusted Alex knew what he was doing so I picked the middle of the road number each time. 
+58,check,40,Doctorate degree,4,1,4,1,3,1,3,0,3,1,1,1,4,1,5,1,3,1,4,1,2,1,2,1,"If Alex took more than 4 I assumed I have greater than a 50-50 shot. If less, then less."
+59,check,36,Bachelo's degree,5,1,5,1,5,1,5,1,2,0,1,0,5,1,5,1,5,1,5,1,2,0,1,0,I looked at what Alex did
+60,check,51,"Some college credit, no degree",6,1,6,1,5,1,3,0,3,1,1,0,6,1,6,1,3,1,3,1,3,0,3,0,Went with the ones Alex picked
+61,check,40,"Some college credit, no degree",5,1,4,1,4,1,3,1,1,0,0,0,5,1,5,1,4,1,4,1,1,0,0,0,I relied on how many eggs Alex bought from each chicken and based my decision from that.
+62,check,44,Associate degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,5,1,2,0,1,0,I just picked when Alex chose more than half and didn't when he didn't
+63,both,34,Bachelo's degree,2,0,2,0,2,0,1,0,5,1,4,1,4,1,4,1,4,1,5,1,1,0,2,0,I made my guesses based on how many tickets Alex found in that chicken.
+64,both,39,"Some college credit, no degree",1,0,1,0,1,0,0,0,1,0,1,1,4,1,5,1,3,1,5,1,1,0,1,0,based on the eggs already chosen
+65,both,36,Bachelo's degree,1,0,0,0,1,0,2,0,2,1,1,0,6,1,5,1,5,1,4,1,1,0,1,0,"I just went with how many Alex picked and how many had tickets in them. If he didn't choose many or many were duds, I took that into account and thought there would be less likely to get anything."
+66,both,33,"Some college credit, no degree",1,1,0,1,1,1,0,1,2,0,1,0,6,1,5,1,5,1,4,1,1,0,1,0,Based on experience not the instancve
+67,both,32,"Some college credit, no degree",1,0,1,0,1,0,0,0,2,0,2,1,5,1,4,1,2,0,3,1,2,0,3,1,I tried my best to accurately guess based on the eggs that alex opened
+68,both,41,Associate degree,1,0,3,0,1,0,0,0,3,1,1,0,6,1,4,1,5,1,4,1,1,0,1,0,"I tried to estimate based on how many eggs were shown to have tickets. If a larger percentage of eggs ended up having tickets, I went for that. "
+69,both,30,Maste's degree,4,1,3,0,1,0,5,0,2,0,2,0,6,1,4,1,6,1,5,1,1,0,1,0,I tried to guess based on how many the person chose vs how many tickets they got. 
+70,both,47,"High school graduate, diploma, or the equivalent",6,1,6,1,6,1,6,1,6,1,6,1,6,1,6,0,6,0,6,1,6,1,6,1,I think six is the magic number.
+71,both,44,Bachelo's degree,3,1,1,0,1,0,0,0,1,0,0,0,4,1,4,1,4,1,3,1,0,0,0,0,I looked at the recent results & the confidence Alex placed in them based on his/her experience.
+72,both,58,Professional degree,6,1,0,0,2,0,1,0,2,0,3,0,6,1,5,1,5,1,5,1,1,0,2,0,I just randomly chose as there is no way for me to know which did or did not have a ticket.
+73,both,28,Bachelo's degree,4,1,4,1,3,1,3,1,2,0,1,0,4,1,5,1,4,1,3,1,2,0,1,0,I figured Alex knew the average pretty well. I went with plus or minus one of however many Alex chose to buy. 
+74,both,30,Bachelo's degree,1,0,0,0,1,0,0,0,2,0,1,1,6,1,5,1,5,1,4,1,0,0,0,0,I went based off the results from Alex's picks.
+75,both,26,"High school graduate, diploma, or the equivalent",1,0,1,1,1,0,1,0,2,0,1,0,5,1,5,0,5,1,4,1,1,0,1,0,How many Alex got or discarded
+76,both,34,"Some college credit, no degree",1,0,0,0,1,0,1,0,2,1,1,0,5,1,5,1,6,1,5,1,1,0,1,0,I based it off of alex's results when he bought some. 
+77,both,39,"Some college credit, no degree",1,0,0,0,1,0,0,0,2,1,1,0,6,1,5,1,5,1,4,1,0,0,0,0,I guessed off of what happened during Alex's play with each chicken eggs. I took his game play into great consideration.
+78,both,41,Bachelo's degree,1,0,0,0,1,0,1,0,3,0,2,1,6,1,5,1,5,1,1,0,1,0,2,1,Based on how many Alex bought and the results from his buying
+79,both,44,"High school graduate, diploma, or the equivalent",1,0,0,0,1,0,0,0,2,1,1,0,6,1,5,1,6,1,5,1,2,0,1,0,I mostly just went by Alex's results and by intuition.
+80,both,28,Maste's degree,1,0,0,0,1,0,1,0,5,1,3,1,5,1,5,1,5,1,5,1,2,0,1,0,just based on what happened when alex played
+81,both,36,Bachelo's degree,2,0,1,0,2,0,0,0,2,1,1,0,6,1,5,1,5,1,6,1,1,0,1,0,"I would look at how many eggs ""Alex"" passed on to help give me an indication of how good my chances were with that type of colored egg. Then I'd look at how many tickets Alex actually acquired from the ones he didn't pass on. So if he passed on a lot and didn't get many tickets I knew that it wasn't going to be worth playing that egg color. However, if he didn't pass on many of a specific egg color and the tickets gained was high I figured you'd generally have a high chance at getting a ticket."
+82,both,26,Associate degree,1,0,0,0,1,0,0,0,2,1,1,1,6,1,5,1,6,1,4,1,0,0,0,0,I just followed alex cues. And tried to copy what he did
+83,both,41,Maste's degree,1,0,1,0,3,1,2,0,4,1,2,0,6,1,5,1,6,1,4,1,1,0,0,0,Seeing how many of the eggs that were open contained the ticket.
+84,both,45,Bachelo's degree,2,1,1,0,1,0,0,0,3,1,3,1,5,1,5,1,6,1,5,1,2,0,2,0,I did it based on what Alex's picks yielded as well as my own hunch.
+85,both,51,Associate degree,3,1,0,0,4,1,1,0,2,1,2,0,6,1,5,1,5,1,4,1,1,0,1,0,I looked at how many golden tickets Alex got and since he knew the chickens well I guessed it would be close to what he got.
+86,both,38,Doctorate degree,3,1,3,1,2,1,3,1,1,0,1,0,4,1,4,1,4,1,4,1,1,0,1,0,Roughly guessed based on observations of how many eggs alex purchased
+87,both,56,Bachelo's degree,1,1,0,0,1,1,1,1,3,1,1,1,6,1,5,1,5,1,6,0,2,1,2,0,I just infered from what I saw.
+88,both,38,Bachelo's degree,6,1,0,0,1,0,0,0,4,1,3,1,6,1,5,1,6,1,5,1,0,0,1,1,I tried to average what i thought would be in the egg
+89,both,28,Bachelo's degree,1,1,1,0,1,1,1,1,2,1,1,1,5,0,1,1,5,1,4,1,2,1,5,1,6
+90,both,32,Bachelo's degree,1,0,0,0,1,0,0,0,2,0,1,0,6,1,5,0,5,1,4,1,2,0,1,0,based on the history and previous play
+91,both,24,"Some college credit, no degree",5,0,0,0,1,1,1,0,2,0,2,0,6,1,5,1,0,0,2,0,0,0,2,0,"By remembering the order of each batch, and if it has a high or low reward rate."
+92,both,35,Bachelo's degree,6,1,6,1,6,1,6,1,6,0,6,0,6,1,6,1,6,1,6,1,6,0,6,0,It asked how many it was *possible*. It's always *possible* it could be all 6.
+93,both,40,Bachelo's degree,3,1,0,0,2,1,1,0,1,1,1,0,6,1,3,1,4,1,4,1,1,1,4,1,by how many coins he spent
+94,both,24,"High school graduate, diploma, or the equivalent",3,1,1,0,3,0,3,1,2,0,1,0,5,1,5,1,4,1,4,1,1,0,1,0,I tried to figure out base numbers from the videos of Alex's performance and work out averages based on those.
+95,both,26,Associate degree,1,0,0,0,1,1,0,0,2,1,4,1,5,1,4,1,3,1,4,1,1,0,2,1,I tried to guess the probability
+96,both,31,Associate degree,1,0,0,0,1,0,0,0,2,0,1,0,6,1,5,1,5,1,4,1,0,0,0,0,I thought about how each set already had a set number and tried to guess the closest number.
+97,both,49,Maste's degree,1,0,0,0,1,0,2,0,2,1,1,1,5,1,4,1,3,1,3,1,1,0,1,0,I took an average 
+98,both,27,Associate degree,2,0,0,0,2,0,0,0,3,1,1,0,4,1,5,1,5,1,5,1,1,0,0,0,The percentage of eggs that Alex bought with a ticket in them assuming that all eggs skipped had no tickets in them
+99,both,56,Associate degree,1,0,0,0,1,0,6,1,2,0,1,0,6,1,5,1,5,1,4,0,0,0,1,0,I mostly went with how many tickets Alex got. 
+100,both,43,Bachelo's degree,4,1,4,1,3,0,3,0,3,0,2,0,5,1,4,1,4,1,4,1,3,0,2,0,If he played all or most of the eggs I figured they had a high average rate (I usually guessed 4). If he didn't play many of the eggs (2 or less) I guessed a low rate (either 2 or 3). If he picked a middle number of eggs (3 or 4) I assumed a 50/50 rate and guessed 3
+101,both,48,"High school graduate, diploma, or the equivalent",3,0,3,1,1,1,2,1,1,0,2,0,5,1,4,1,3,0,2,1,1,0,1,0,"I tried to go by what Alex did. The more eggs he chose, the more tickets I thought there might be in general."
+102,both,25,Bachelo's degree,1,0,0,0,1,0,1,0,4,1,3,1,5,1,4,1,5,1,5,1,2,0,2,0,I just made my choices based on alex's results
+103,both,30,Bachelo's degree,1,0,1,0,2,1,1,1,3,1,3,1,5,1,4,1,5,1,4,1,2,1,2,0,I left it up to chance
+104,both,30,Doctorate degree,6,1,6,0,6,0,6,1,6,1,6,1,6,1,6,1,6,1,6,1,6,0,6,1,"You asked how many ""may"" here be, so I guessed 6 because there may be up to 6."
+105,both,70,Bachelo's degree,1,0,0,0,2,0,0,0,3,0,1,0,6,1,5,1,6,1,4,1,0,0,0,0,I tried to take a percentage of the eggs revealed that had tickets and applied that to the next 6 eggs.
+106,both,28,Bachelo's degree,1,0,0,0,1,0,0,0,2,1,1,0,6,1,5,1,5,0,4,1,1,0,2,0,I went along with Alex.
+107,both,32,Bachelo's degree,2,0,2,1,2,0,1,1,3,1,2,1,3,1,1,1,1,1,2,1,2,1,1,1,i followed instinct
+108,both,27,Associate degree,1,0,1,0,2,1,3,1,4,1,2,0,6,1,5,1,6,1,4,1,2,1,3,1,By trends in the game
+109,both,30,"Some college credit, no degree",1,1,1,0,2,0,0,0,5,1,4,1,6,1,4,1,3,1,4,1,2,0,3,1,I just used what I saw in the videos as a rough gauge as to which ones were probably better to buy.
+110,both,34,Bachelo's degree,4,1,4,1,4,1,4,1,2,0,1,0,5,1,5,1,4,1,4,1,2,0,1,0,"I based my guess on how many eggs the other person picked. When the other person chose to pick more eggs, I assumed that that chicken must have lots of eggs with golden tickets, regardless of that specific outcome. And, when that person decided to give up a lot of eggs, I knew that the chicken must have less golden tickets. So, basically, I made my decision based on the knowledge of the other person."
+111,both,39,"Some college credit, no degree",1,0,0,0,1,0,0,0,2,0,1,0,4,1,5,1,6,1,5,1,1,0,0,0,I assumed the variables that were given in the beginning of the study
+112,both,36,Maste's degree,2,0,0,0,2,0,1,0,4,1,1,0,5,1,5,1,5,1,4,1,1,0,2,0,"I basically guessed on whether or not Alex chose a bunch of eggs that had correct tickets. I avoided selecting eggs when it was evident that not many tokens would be won or very few (i.e., when Alex selected only one egg)."
+113,both,31,Associate degree,1,0,0,0,1,0,0,0,2,0,1,0,6,1,5,1,6,1,4,1,0,0,0,0,"I remember the yellow, orange, purple, and blue chickens had high rates of tickets. 5 or 6 each per six eggs. "
+114,both,28,"High school graduate, diploma, or the equivalent",1,0,0,0,1,0,0,0,2,1,1,1,6,1,5,1,5,1,4,1,0,0,0,0,"I just went by what I saw. I could have guessed like 1/6 or 5/6 etc from what Alex knew, but I just went with what I knew."
+115,both,56,"Some college credit, no degree",2,1,0,0,1,1,3,1,3,1,3,1,6,0,5,1,5,0,4,1,4,0,1,1,I went with my gut feeling
+116,both,29,"Some college credit, no degree",2,0,2,0,2,0,2,0,3,1,2,1,5,1,4,1,6,1,4,1,3,1,2,1,I assumed anything with low numbers of tickets would be more likely to have another bad streak
+117,both,30,Maste's degree,1,0,0,0,1,0,1,0,3,0,1,0,6,1,5,1,5,1,5,1,1,0,1,0,I assumed Alex had a pretty good idea but generally trended slightly towards 50% each time.
+118,both,56,Bachelo's degree,1,0,0,0,1,0,0,0,4,1,4,1,5,1,4,1,4,1,4,1,2,0,2,1,I tried to consider the luck Alex had with them and choose the same general amount 
+119,both,45,"Some college credit, no degree",0,0,0,0,0,0,0,0,3,1,5,1,6,1,3,1,6,1,3,1,3,1,1,0,I estimated based on how many eggs Alex picked that had golden tickets.
+120,both,32,Bachelo's degree,1,0,0,0,1,0,1,0,3,1,1,0,6,1,5,0,5,1,4,1,2,0,0,0,I based it off of the videos and the results that Alex got when he picked his eggs.
+121,both,42,"Some college credit, no degree",3,1,2,0,3,0,3,0,4,1,3,1,6,1,5,1,6,1,5,0,3,0,2,0,"I made my decision based on how many tickets I already have seen and how many eggs were already empty, empty."
+122,both,36,Bachelo's degree,4,1,5,1,4,1,5,1,2,0,1,0,5,1,5,1,5,1,4,1,2,0,1,0,"I thought that the number of eggs that Alex spent tokens on was the expected value of golden tickets that would be received. However considering the fluctuation of each batch, I weighted down the expected value by 1. If the odds of receiving a ticket were 4/6, I decided to spend a token."
+123,both,31,Bachelo's degree,1,0,0,0,1,0,1,0,2,0,2,0,6,1,5,1,5,1,5,1,0,0,1,0,Based on the Alex decision. 
+124,both,38,"Some college credit, no degree",6,1,4,1,4,0,5,1,2,0,2,0,5,1,5,1,5,1,3,1,2,0,1,0,I based it on how many Alex was willing to purchase.
+125,both,41,Bachelo's degree,6,1,6,1,5,1,5,1,2,0,1,0,6,1,6,1,5,1,4,1,2,0,1,0,I based my guess on how many eggs Alex submitted tokens for. 
+126,both,34,"Some college credit, no degree",4,1,3,0,3,0,3,0,3,0,3,0,5,1,5,1,3,1,4,0,2,0,2,0,"based a lot on how many tokens they spent. They knew the rates, so despite how many tickets were found I went more on how much a risk they were wiling to take."
+127,both,29,Maste's degree,2,0,2,0,3,0,1,0,4,1,4,1,5,1,4,1,5,1,4,1,2,0,3,1,I based it mostly on the sample revealed in each video
+128,both,42,"Some college credit, no degree",1,0,1,0,1,0,1,0,2,0,1,1,4,1,4,1,3,1,3,1,2,1,1,0,"Kind of just gave an average of what Alex did.. but, didn't seem to be any rhyme nor reason.. It's totally unpredictable."
+129,both,31,"High school graduate, diploma, or the equivalent",1,0,0,0,1,0,3,1,4,1,3,1,5,1,5,1,6,1,5,1,0,0,2,0,based on the eggs I was shown Alex opening.
