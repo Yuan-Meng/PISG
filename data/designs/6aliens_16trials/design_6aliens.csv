@@ -1,0 +1,17 @@
+﻿condition,trial,n_check,n_hit
+12to4,inconsistent01,6,1
+12to4,inconsistent02,6,0
+12to4,inconsistent03,5,1
+12to4,inconsistent04,5,0
+12to4,consistent01,2,2
+12to4,consistent02,1,1
+12to4,consistent03,6,6
+12to4,consistent04,6,5
+12to4,consistent05,5,5
+12to4,consistent06,5,4
+12to4,consistent07,2,0
+12to4,consistent08,1,0
+12to4,consistent09,4,3
+12to4,consistent10,4,2
+12to4,consistent11,3,2
+12to4,consistent12,3,1
